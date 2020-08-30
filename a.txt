@@ -3,7 +3,5 @@ bbbbbbbbbb
 cccccccccc
 dddddddddd
 eeeeeeeeee
-<<<<<<< HEAD
 ffffffffff
 dddddddddd
->>>>>>> tob_pic
